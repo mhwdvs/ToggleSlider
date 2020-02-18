@@ -1,5 +1,5 @@
 # ToggleSlider
-A nice C# toggle-slider (apple-esc) with similar properties as .NET CheckBox 
+A nice C# toggle-slider (apple-esc) as a Style property for a .NET CheckBox 
 
 # Usage
 
