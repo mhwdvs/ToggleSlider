@@ -1,6 +1,8 @@
 # ToggleSlider
 A nice C# toggle-slider (apple-esc) as a Style property for a .NET CheckBox 
 
+![](/toggleswitches.png)
+
 # Usage
 
 - Add the following to your App.xml
